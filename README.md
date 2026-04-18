@@ -130,7 +130,7 @@ UGC-Flow/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/laxman-thedev/AI-Short-Video-Ads-Generator.git
+https://github.com/avinashreddy09/AI-Short-Video-Ads-Generator
 cd AI-Short-Video-Ads-Generator
 ```
 
